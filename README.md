@@ -24,7 +24,7 @@ Each directory contains a README with further documentation. Overall, when it co
 
 If you use this repo or technique in an academic work, please cite:
 
-'''
+```
 @inproceedings{kornfein2022closing,
   title={Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection},
   author={Kornfein, Caleb and Willard, Frank and Tang, Caroline and Long, Yuxi and Jain, Saksham and Malof, Jordan and Ren, Simiao and Bradbury, Kyle},
@@ -32,6 +32,6 @@ If you use this repo or technique in an academic work, please cite:
   url={https://www.climatechange.ai/papers/neurips2022/37},
   year={2022}
 }
-'''
+```
 
 If you have any remaining questions, feel free to reach out at caleb.kornfein@gmail.com.
