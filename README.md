@@ -4,12 +4,10 @@
 
 Welcome to our github! Here you can find code documentation for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection', including our dataset, experiments, and synthetic image generation. 
 
-Each directory contains a README with further documentation. Overall, when it comes to:
-
 **EXPERIMENTS:**
-- Full experiment results can be found in experiment_results.
+- Full experiment results can be found in experiment_results. Please visit final.csv to see the results used in the paper.
 - Experiment configurations (label and image path txt files as well as shape files) for Yolov3 can be found in the experiments folder.
-- Yolov3 code for running our experiments can be found in the yolov3 folder, specifically the efficient_run_train_test.py script.
+- Yolov3 code for running our experiments can be found in the yolov3 folder, specifically the train_mixed_batch.py script.
 - Unless stated otherwise in a subdirectory README, experiment code can be reproduced in the environment found in requirements.txt.
 
 **IMAGE GENERATION:**
