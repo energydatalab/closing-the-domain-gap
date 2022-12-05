@@ -1,0 +1,30 @@
+Train,Test,Distance(m),Turbine Overlap,Background Overlap,Checked By,Comments
+NW_15680.jpg,NW_15624.jpg,1044.1,N,N,Caleb,
+NW_52280.jpg,NW_52256.jpg,903.8,N,N,Caleb,
+NW_4212.jpg,NW_4249.jpg,479.5,DNE,DNE,Caleb,(Deleted 4249 before)
+NW_60335.jpg,NW_60275.jpg,1030.7,N,N,Caleb,
+NW_53834.jpg,NW_53722.jpg,892,N,N,Caleb,(Possible background overlap but I don't think so from visual inspection)
+NW_53348.jpg,NW_53351.jpg,600.2,N,N,Caleb,(Again possible but I don't think so)
+NW_60717.jpg,NW_60700.jpg,673.6,N,N,Caleb,
+NW_60342.jpg,NW_60313.jpg,869.2,N,N,Caleb,
+NW_60342.jpg,NW_60289.jpg,873.5,N,N,Caleb,"Note, NW_60289.jpg and NW_60313.jpg both have same 2 turbines in them"
+NW_15619.jpg,NW_15624.jpg,711.1,N,N,Caleb,
+NW_53797.jpg,NW_53567.jpg,289.1,Y,Y,Caleb,
+NW_47169.jpg,NW_47196.jpg,844.7,N,N,Caleb,
+NW_53509.jpg,NW_53722.jpg,226.9,Y,Y,Caleb,
+NW_60714.jpg,NW_60700.jpg,968.9,N,N,Caleb,
+NW_53819.jpg,NW_53567.jpg,921.7,N,N,Caleb,
+NW_36767.jpg,NW_36771.jpg,598.7,N,Y,Caleb,
+NW_36767.jpg,NW_36764.jpg,202.9,Y,Y,Caleb,
+NW_23841.jpg,NW_23886.jpg,380.8,Y,Y,Caleb,
+NW_13096.jpg,NW_13079.jpg,690.2,N,N,Caleb,
+NW_28590.jpg,NW_28607.jpg,622.8,Y,Y,Caleb,The tiniest tiniest bit of overlap
+NW_53687.jpg,NW_53397.jpg,536,N,N,Caleb,"Could be background overlap, would be hard to tell as there is blank white sandy background"
+NW_28372.jpg,NW_28383.jpg,157.3,Y,Y,Caleb,
+NW_61130.jpg,NW_61136.jpg,263.6,Y,Y,Caleb,
+NW_48885.jpg,NW_48884.jpg,884.3,N,N,Caleb,
+NW_53795.jpg,NW_53567.jpg,878.3,N,N,Caleb,
+NW_38468.jpg,NW_50629.jpg,682.8,N,N,Caleb,
+NW_35491.jpg,NW_35484.jpg,997.8,N,N,Caleb,
+NW_58291.jpg,NW_58301.jpg,115.2,Y,Y,Caleb,
+NW_53828.jpg,NW_53722.jpg,149.5,Y,Y,Caleb,

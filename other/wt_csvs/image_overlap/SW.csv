@@ -1,0 +1,13 @@
+Train,Current indexing,Test,Distance(m),Turbine Overlap,Background Overlap,Checked By,Comments
+SW_61441.jpg,131,SW_61487.jpg,438.4,Y,Y,Caleb,
+SW_53197.jpg,103,SW_53243.jpg,986.6,N,N,Caleb,
+SW_6588.jpg,63,SW_6553.jpg,675.8,N,N,Caleb,? on Background
+SW_47937.jpg,90,SW_47913.jpg,1044,N,N,Caleb,
+SW_35434.jpg,96,SW_35447.jpg,455.3,Y,Y,Caleb,One turbine in the Test image set is partially (just stem of turbine) in the other photo
+SW_9976.jpg,67,SW_9914.jpg,975,N,N,Caleb,
+SW_50639.jpg,2,SW_50662.jpg,246.9,Y,Y,Caleb,
+SW_39212.jpg,160,SW_39202.jpg,565,N,Y,Caleb,
+SW_38614.jpg,60,SW_38613.jpg,805.6,N,N,Caleb,Based on distance potential for overlap but I didn't see any
+SW_22418.jpg,13,SW_22369.jpg,276.7,Y,Y,Caleb,
+SW_257.jpg,88,SW_39053.jpg,973.9,N,N,Caleb,
+SW_10762.jpg,145,SW_10946.jpg,887.9,N,N,Caleb,

@@ -1,5 +1,4 @@
 __pycache__/
-*.csv
 # Ignore trained YoloV3 models with .pt extension as
 # they are too large to upload to github
 *.pt
