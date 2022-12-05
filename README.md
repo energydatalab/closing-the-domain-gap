@@ -2,7 +2,7 @@
 
 Welcome to our github! Here you can find code documentation for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection', including our dataset, experiments, and synthetic image generation. Here is a [link](https://www.climatechange.ai/papers/neurips2022/37) to the full workshop paper.
 
-For an easy-to-download version and further documentation of our dataset of aerial images of wind turbines, visit [https://zenodo.org/record/7385227#.Y419qezMLdr](https://zenodo.org/record/7385227#.Y419qezMLdr).
+For an easy-to-download version and further documentation of our dataset of aerial images of wind turbines, visit [link](https://zenodo.org/record/7385227#.Y419qezMLdr).
 
 Each directory contains a README with further documentation. Overall, when it comes to:
 
