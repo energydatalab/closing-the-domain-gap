@@ -1,0 +1,11 @@
+train=/scratch/cek28/jitter/wt/experiments/Color_Equalize_Domain/Train_NW_Test_NW_Images.txt
+train_label=/scratch/cek28/jitter/wt/experiments/Color_Equalize_Domain/Train_NW_Test_NW_Labels.txt
+supplement=/scratch/cek28/jitter/wt/experiments/Color_Equalize_Domain/Train_NW_Test_NW_Supplement_Images.txt
+supplement_label=/scratch/cek28/jitter/wt/experiments/Color_Equalize_Domain/Train_NW_Test_NW_Supplement_Labels.txt
+valid=/scratch/cek28/jitter/wt/experiments/Test/NW_Images.txt
+valid_label=/scratch/cek28/jitter/wt/experiments/Test/NW_Labels.txt
+supplemental_batch_size=1
+classes=1
+names=./data/wnd.names
+backup=backup/
+eval=wnd

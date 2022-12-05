@@ -1,0 +1,10 @@
+/scratch/cek28/jitter/wt/images/EM/Background/EM_64667.jpg
+/scratch/cek28/jitter/wt/images/Synthetic/s_NW_t_EM/EM_64667_m13.jpg
+/scratch/cek28/jitter/wt/images/SW/Background/SW_31658.jpg
+/scratch/cek28/jitter/wt/images/Synthetic/s_NW_t_SW/SW_31658_m166.jpg
+/scratch/cek28/jitter/wt/images/EM/Background/EM_4786.jpg
+/scratch/cek28/jitter/wt/images/Synthetic/s_SW_t_EM/EM_4786_m115.jpg
+/scratch/cek28/jitter/wt/images/SW/Background/SW_34909.jpg
+/scratch/cek28/jitter/wt/images/Synthetic/s_SW_t_SW/SW_34909_m133.jpg
+/scratch/cek28/jitter/wt/images/NW/Background/NW_27142_NW.jpg
+/scratch/cek28/jitter/wt/images/Synthetic/s_EM_t_NW/NW_27142_NW_m20.jpg

@@ -1,0 +1,11 @@
+train=/scratch/cek28/jitter/wt/experiments/Optimal_Ratio_5/Train_EM_Test_EM_Images.txt
+train_label=/scratch/cek28/jitter/wt/experiments/Optimal_Ratio_5/Train_EM_Test_EM_Labels.txt
+supplement=/scratch/cek28/jitter/wt/experiments/Optimal_Ratio_5/Train_EM_Test_EM_Supplement_Images.txt
+supplement_label=/scratch/cek28/jitter/wt/experiments/Optimal_Ratio_5/Train_EM_Test_EM_Supplement_Labels.txt
+valid=/scratch/cek28/jitter/wt/experiments/Test/EM_Images.txt
+valid_label=/scratch/cek28/jitter/wt/experiments/Test/EM_Labels.txt
+supplemental_batch_size=5
+classes=1
+names=./data/wnd.names
+backup=backup/
+eval=wnd
