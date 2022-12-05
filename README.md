@@ -1,8 +1,8 @@
 # Closing the domain gap
 
-Welcome to our github! Here you can find code documentation for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection', including our dataset, experiments, and synthetic image generation. Here is a [link](https://www.climatechange.ai/papers/neurips2022/37) to the full workshop paper.
+Welcome to our github! Here you can find code documentation for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection'. This includes our dataset, experiments, and synthetic image generation. Here is a [link](https://www.climatechange.ai/papers/neurips2022/37) to the full workshop paper.
 
-For an easy-to-download version and further documentation of our dataset of aerial images of wind turbines, visit [link](https://zenodo.org/record/7385227#.Y419qezMLdr).
+For an easy-to-download version and further documentation of our dataset of aerial images of wind turbines, please visit our zenodo [link](https://zenodo.org/record/7385227#.Y419qezMLdr).
 
 Each directory contains a README with further documentation. Overall, when it comes to:
 
@@ -10,10 +10,11 @@ Each directory contains a README with further documentation. Overall, when it co
 - Experiment results can be found in experiment_results
 - Label and image paths as well as shape files for Yolov3 can be found in the experiments folder
 - Yolov3 code for running our experiments can be found in the yolov3 folder, specifically the efficient_run_train_test.py script.
+- Unless stated otherwise in a subdirectory README, experiment code can be reproduced in the environment found in requirements.txt.
 
 **IMAGE GENERATION:**
-- Code for our synthetic image generation technique is in image_generation/comparison_techniques
-- Code for creating images of comparison techniques is in image_geration/comparison_techniques
+- Code for our synthetic image generation technique is in image_generation/synthetic.
+- Code for creating images of comparison techniques is in image_geration/comparison_techniques.
 
 **DATASET:**
 - The images and labels folders are symmetric and contain .jpg images and .txt labels of wind turbine locations.
