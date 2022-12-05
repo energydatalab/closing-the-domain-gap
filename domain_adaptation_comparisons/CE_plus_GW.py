@@ -85,8 +85,8 @@ def process_directory(paths, out_path, method, scope):
 
 def process_all():
 
-    root = '/scratch/cek28/jitter/wt'
-    domain_dict = json.load(open("/scratch/cek28/jitter/wt/domain_overview.json", "r"))
+    root = ''
+    domain_dict = json.load(open("domain_overview.json", "r"))
     domains = ['NW', 'SW', 'EM']
     actions = ['Real', 'Test']
     methods = ['Color_Equalize', 'Gray_Equalize']
