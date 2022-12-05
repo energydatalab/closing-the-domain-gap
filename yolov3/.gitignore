@@ -246,10 +246,6 @@ fabric.properties
 # Ignore for github upload
 __pycache__/
 .github/
-cfg/
-data/
-data_adding_synthetic/
 err/
 out/
 runs/
-utils/
