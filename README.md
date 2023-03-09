@@ -2,7 +2,7 @@
 
 [[Workshop Paper]](https://www.climatechange.ai/papers/neurips2022/37) [[Dataset]](https://zenodo.org/record/7385227#.Y419qezMLdr) [[Team]](https://bassconnections.duke.edu/project-teams/creating-artificial-worlds-ai-improve-energy-access-data-2021-2022)
 
-Welcome to our github! Here you can find code documentation for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection', including our dataset, experiments, and synthetic image generation. 
+Welcome to our github! Here you can find code documentation for our methods paper submission to Environmental Data Science journal (submitted and under review) and for our 2022 Neurips CCAI submission 'Closing the Domain Gap -- Blended Synthetic Imagery for Climate Object Detection', including our dataset, experiments, and synthetic image generation. 
 
 **EXPERIMENTS:**
 - Full experiment results can be found in experiment_results. Please visit final.csv to see the results used in the paper.
